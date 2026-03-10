@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+    <TITLE> Practical 5 </TITLE>
+    <style>
+        body {
+               background-image: url("C:/Users/LENOVO/Desktop/background.png");
+            background-size: cover;
+             }
+    </style>
+</HEAD>
+<BODY>
+<H2 ALIGN="CENTER"> RESUME  </H1>
+<H4> Aarohi Mathurkar </H4>
+<H4> Email: aarohimathurkar@gmail.com </H4>
+<HR>
+<img src="C:\Users\LENOVO\Desktop\aarohi.png" align="right" height="200" width="200 ">
+
+<TABLE border="5" bgcolor="pink">
+
+           <TR>
+               <TH> Qualification</TH>
+               <TH>School/College</TH>
+               <TH>Year of passing </TH>
+           </TR>
+           
+          <TR>
+               <TD> 10TH </TD>
+               <TD> Sandipani School </TD>
+               <TD>2023</TD>
+          </TR>
+ 
+          <TR>
+               <TD>12TH</TD>
+               <TD>Sandipani JR.College </TD>
+               <TD>2025</TD>
+          </TR>
+ 
+         <TR>
+             <TD> 1ST Year </TD>
+             <TD>SB Jain Institute </TD>
+             <TD>On Going.</TD>
+         </TR>
+</TABLE>
+
+<H4>
+<OL TYPE="I">
+      <LI> Technical Skills : </LI>
+           <UL TYPE="SQUARE">
+               <LI> HTML </LI>
+               <LI> C </LI>
+               <LI> C++ </LI>
+           </UL>
+     <LI> Soft Skills : </LI>
+         <UL TYPE="SQUARE">
+               <LI> Communication </LI>
+               <LI> Language: Fluency in English and Hindi </LI>
+               <LI> Leadership </LI>
+               <LI> Time Managment </LI>
+           </UL>
+       
+</OL>
+</H4>
+<HR>
+ 
+<H2> Personal Details - </H2>
+<H3> Name: Aarohi Ajay Mathurkar </H3>
+<H3> Email: aarohim.cse25@sbjit.edu.in </H3>
+<H3> City: Nagpur </H3>
+<br>
+<h3> Signature:_________ </h3>
+
+
+ 
+</BODY>
+</HTML>
