@@ -5,17 +5,20 @@
         body {
                background-image: url("C:/Users/LENOVO/Desktop/background.png");
             background-size: cover;
-             }
+            
+            
+                    }
     </style>
 </HEAD>
 <BODY>
 <H2 ALIGN="CENTER"> RESUME  </H1>
 <H4> Aarohi Mathurkar </H4>
 <H4> Email: aarohimathurkar@gmail.com </H4>
+
 <HR>
 <img src="C:\Users\LENOVO\Desktop\aarohi.png" align="right" height="200" width="200 ">
 
-<TABLE border="5" bgcolor="pink">
+<TABLE border="5" bgcolor="pink" cellspacing = "5" cellpadding = "5">
 
            <TR>
                <TH> Qualification</TH>
@@ -63,9 +66,10 @@
 <HR>
  
 <H2> Personal Details - </H2>
-<H3> Name: Aarohi Ajay Mathurkar </H3>
-<H3> Email: aarohim.cse25@sbjit.edu.in </H3>
-<H3> City: Nagpur </H3>
+<H5> Name: Aarohi Ajay Mathurkar </H5>
+<H5> Email: aarohim.cse25@sbjit.edu.in </H5>
+<H5> City: Nagpur </H5>
+<H5> Mobile Number:8952364510  </H5>
 <br>
 <h3> Signature:_________ </h3>
 
